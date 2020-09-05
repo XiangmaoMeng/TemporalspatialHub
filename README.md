@@ -33,7 +33,7 @@ SubcellularLsed.java is the function to identify essential proteins from spatial
 4、In dySub folder, DySubCalculation.java is the function to generate spatial dynamic PPI networks by integrating static PPI network with 
 subcellular localization data and time course gene expression profile data and identify essential proteins by maximum degree centrality(MDC).
 
-5、In analysis folder, Hub2NHub.java and Hub2NHub_2.java are used to analyse the relations among temporospatial hub,static hub and essentail proteins.
-DateHub.java is used to analyse the relations among party hub, date hub and essential proteins.
+5、In analysis folder, Hub2NHub.java and Hub2NHub_2.java are used to analyse the relations among temporospatial hub,static hub and essentail proteins.DateHub.java is used to analyse the relations among party hub, date hub and essential proteins.
+
 --------------------------------
 mxmanhui@csu.edu.cn
