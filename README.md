@@ -36,6 +36,7 @@ subcellular localization data and time course gene expression profile data and i
 5、In analysis folder, Hub2NHub.java and Hub2NHub_2.java are used to analyse the relations among temporospatial hub,static hub and essentail proteins.DateHub.java is used to analyse the relations among party hub, date hub and essential proteins.
 
 --------------------------------
-**Please note：It needs to match your own data directory location.
+**Please note：It needs to match your own data directory location.**
+--------------------------------
 
 mxmanhui@csu.edu.cn
